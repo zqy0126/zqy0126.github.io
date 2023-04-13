@@ -1,1 +1,1 @@
-This is the source code to Zhaoxuan Tan's public academic website: https://zhaoxuan.info/ and https://tamsiuhin.github.io. The template is adapted from Jon Barron's website: https://jonbarron.info/. Thanks Jon for this great work😆!
+This is the source code to Qingyue Zhang's public academic website: https://jian72.github.io/. The template is adapted from Jon Barron's website: https://jonbarron.info/. Thanks Jon for this great work😆!
